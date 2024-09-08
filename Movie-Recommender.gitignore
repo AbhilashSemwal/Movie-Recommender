@@ -1,0 +1,9 @@
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore sensitive data
+secrets.json
+
+# Ignore virtual environment files
+venv/
